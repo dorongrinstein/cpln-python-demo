@@ -11,5 +11,5 @@ async def app(scope, receive, send):
     })
     await send({
         'type': 'http.response.body',
-        'body': b'Hello from Ryan in El Paso',
+        'body': b'Hello from Ryan in El Paso, Texas, USA!',
     })

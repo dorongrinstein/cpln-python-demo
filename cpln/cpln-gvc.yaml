@@ -2,7 +2,7 @@ kind: gvc
 name: GVC_NAME
 description: Python Demo
 spec:
-  domain: api.therights.xyz
+  domain: api.upsie.xyz
   staticPlacement:
     locationLinks:
       - /org/ORG_NAME/location/aws-us-west-2
